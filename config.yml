@@ -171,8 +171,12 @@ params:
       link: https://cldh.io
     - name: Central server
       category: CLDH
-    - name: Gaming server 1
+    - name: gaming_server_1
       category: CLDH
+      displayName: Gaming Server 1
+    - name: gaming_server_2
+      category: CLDH
+      displayName: Gaming Server 2
 
   # What date format to use?
   #

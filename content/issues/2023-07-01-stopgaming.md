@@ -1,9 +1,9 @@
 ---
-title: Maintenance Announcement 
+title: Server has been put on hold 
 date: 2023-07-01 00:00:00 
 severity: disrupted
 affected:
-  - "Gaming server 1"
+  - gaming_server_1
 section: issue
 ---
 
