@@ -1,9 +1,9 @@
 ---
 title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+date: 2024-06-22 01:00:00 
 informational: true
-pin: true 
+pin: false 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+DNS record will be cleaned and refreshed. Latencies or access errors may happen.
