@@ -143,10 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
+    - name: JB Conselh
+      closed: false
+    - name: CLDH
+      closed: false
     - name: Uncategorized
       untitled: true
 
@@ -158,13 +158,13 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
+    - name: Main website
+      category: JB Conselh
+    - name: Mercure
+      category: JB Conselh
     - name: Website
       description: The web frontend for the application.
-      category: Uncategorized
+      category: CLDH
       link: https://example.com/
     - name: API
       description: The guts of the application.
@@ -182,7 +182,7 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: January 2, 2006 at 3:04 PM UTC
+  dateFormat: January 2, 2006 at 15:04 UTC
   shortDateFormat: 15:04 UTC — Jan 2
 
   # Should relative time (x min ago) be used?
