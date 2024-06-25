@@ -1,9 +1,9 @@
 ---
 title: Maintenance Announcement 
 date: 2023-07-01 00:00:00 
-severity: down
+severity: disrupted
 affected:
-  - Gaming server 1
+  - "Gaming server 1"
 section: issue
 ---
 
